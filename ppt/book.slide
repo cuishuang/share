@@ -1,0 +1,365 @@
+那些有简称或诨名的计算机书籍
+
+21 Mar 2022
+
+cuishuang
+i@dashen.tech
+https://dashen.tech/
+@cuishuang
+
+* TAOCP  （阅读难度：高）
+
+
+.link https://book.douban.com/subject/1130500/ The Art Of Computer Programming
+
+.image TAOCP.jpeg 450 _
+
+
+.caption [[http://celestial.dashen.tech/#Donald-Knuth][celestial.dashen.tech/#Donald-Knuth]]
+.caption [[https://www-cs-faculty.stanford.edu/~knuth/][www-cs-faculty.stanford.edu/~knuth]]
+
+
+
+
+* 轶事
+
+
+
+- 作者高德纳(Donald Knuth),1974年图灵奖得主, 至今仍保持着图灵奖最年轻获奖者的纪录(36岁获奖)
+- KMP算法中的’K‘，为写作发明了排版工具TeX (更知名的LaTeX，是2013年图灵奖得主/Paxos算法提出者Lamport基于TeX在上世纪80年代初期开发）
+- TAOCP系列计划写7卷，目前出到第4卷（第3卷出版于1973年）。知乎有个问题 ”第5卷、第6卷和第7卷在高德纳有生之年能写完吗？“ 有个回复：”不知道，咱们有生之年能把他已经写的都看明白，就已经了不起了。“
+- “假设你能读懂这套书的话，请给我发一份简历。” (比尔 盖茨)
+
+
+
+
+
+* SICP   （阅读难度：高）
+
+
+
+.link https://book.douban.com/subject/1148282/ Structure and Interpretation of Computer Programs
+
+
+
+
+.image SICP.jpeg 450 _
+
+
+
+.caption MIT经典教材，也称”魔法书“
+.caption No.4 豆瓣热门编程图书TOP10
+
+
+
+
+
+
+
+* CSAPP   （阅读难度：强烈推荐）
+
+.link https://book.douban.com/subject/5333562/ Computer Systems: A Programmer's Perspective
+
+
+
+.image CSAPP.jpeg 450 _
+
+
+.caption CMU经典教材
+.caption No.1 豆瓣热门编程图书TOP10
+
+
+
+
+
+* OSTEP   （阅读难度：强烈推荐）
+
+.link https://book.douban.com/subject/33463930/ Operating Systems: Three Easy Pieces
+
+.image OSTEP.png 450 _ 
+
+
+
+.caption [[https://pages.cs.wisc.edu/~remzi/OSTEP/][原著地址]]
+
+
+
+
+* 名称由来
+
+
+”Three Easy Pieces“指的虚拟化，并发和持久性
+
+为了致敬费曼讲物理学的 
+.link https://book.douban.com/subject/1989300/ Six Easy Pieces
+作者认为操作系统的难度差不多是物理学的一半
+
+
+.image haha.png 250 _ 
+
+
+
+
+* APUE   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/25900403/ Advanced Programming in the UNIX Environment
+
+
+
+.image APUE.jpg 450 _ 
+
+.caption UNIX编程“圣经”
+
+
+.caption No.5 豆瓣热门编程图书TOP10
+
+
+
+
+
+
+
+
+
+
+
+* TLPI   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/25809330/ The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+
+
+
+.image TLPI.png 450 _ 
+
+
+.caption [[https://man7.org/][作者博客]]
+
+
+
+
+
+
+
+* UNP   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/4859464/ Unix Network Programming
+
+
+
+.image UNP.jpeg 450 _ 
+
+
+.caption No.8 豆瓣热门编程图书TOP10
+
+
+
+* ULK   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/2287506/ Understanding the Linux Kernel
+
+
+
+.image ULK.jpeg 450 _ 
+
+
+
+
+
+* LKD   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/6097773/  Linux Kernel Development
+
+
+
+.image LKD.jpeg 450 _ 
+
+
+
+
+
+
+* CC   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/1477390/  Code Complete
+
+
+
+.image CC.png 450 _ 
+
+.caption No.6 豆瓣热门编程图书TOP10
+
+
+
+* CA   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/30333919/  Clean Architecture
+
+
+
+.image CA.jpg 450 _ 
+
+
+
+* DDIA   （阅读难度：强烈推荐）
+
+.link https://book.douban.com/subject/30329536/  Designing Data-Intensive Applications
+
+
+
+.image DDIA.jpeg 450 _ 
+
+
+
+
+
+
+
+
+
+* CLRS   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/1885170/  Introduction to Algorithms
+
+
+
+.image CLRS.jpeg 450 _ 
+
+.caption No.2 豆瓣热门编程图书TOP10
+.caption 四位作者首字母为CLRS，因此也常用此代指该书
+
+
+
+
+* GoF   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/1052241/  Design Patterns: Elements of Reusable Object-Oriented Software
+
+
+
+.image GOF.jpeg 450 _ 
+
+.caption No.10 豆瓣热门编程图书TOP10
+
+.caption GoF(Gang of Four)指四位作者。写作该书时，四人分散在北美大陆不同角落
+
+
+
+No.10
+豆瓣热门编程图书TOP10
+
+
+
+
+
+
+
+* TCPL   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/1139336/  The C Programming Language
+
+
+
+
+.image TCPL.png 450 _ 
+
+.caption 也称为K&R,"hello,World"由该书首次引入
+.caption No.3 豆瓣热门编程图书TOP10
+
+
+
+
+
+* 渊源
+
+
+
+
+- C语言圣经，常用“旧约”、“新约”指该书的初版（1978）和第二版（1988）
+- 作者Kernighan和Ritchie，一般称为“K＆R”
+- Kernighan也是<Go程序设计语言>作者之一,AWK中的’K‘
+- Ritchie即dmr,C语言之父,和ken共同获得1983年图灵奖
+
+.image bwk.png 250 _ 
+
+
+* 渊源
+
+
+.link https://github.com/golang/go/commit/7d7c6a97f8  传说中的Go代码仓库第一次提交(1972年)
+
+.image bwk2.png 450 _ 
+
+
+* 龙书（Dragon book）   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/3296317/  Compilers: Principles,Techniques,and Tools 
+
+
+
+.image Dragon.jpeg 450 _ 
+
+.caption 编译原理三大圣书之一
+
+
+
+* 作者
+
+- 四位主要作者，其中两位Alfred Aho和Jeffrey Ullman获2020年图灵奖
+
+- Alfred Aho是AWK中的”A“, 也写了Unix下egrep和fgrep工具的最初版本
+
+.image AHO.jpeg 450 _ 
+
+
+
+
+* 虎书（Tiger book）   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/30191414/  Modern Compiler Implementation in C 
+
+
+
+.image Tiger.png 450 _ 
+
+
+
+
+* 鲸书（Whale book）   （阅读难度：推荐）
+
+.link https://book.douban.com/subject/1400374/  Advanced Compiler Design and Implementation
+
+
+
+.image Whale.jpeg 450 _ 
+
+
+
+
+
+
+* 灰姑娘书   （阅读难度：高）
+
+.link https://book.douban.com/subject/3171389/   Introduction to Automata Theory, Languages and Computation
+
+
+
+.image GREY2.jpg 450 _ 
+
+
+
+
+
+* 名称由来
+
+- 初版封面画的是一个小女孩拼命从一个古怪装置(赫然写着“NP完全问题)上拉一条绳子
+
+- 作者Hopcroft，和他在斯坦福大学指导的Tarjan共同获得1986年图灵奖得主
+
+- Alfred Aho则是他在普林斯顿大学任教期间指导的第一位博士生，和Alfred Aho及Jeffrey  Ullman合著了大量计算机科学领域书籍
+
+.image GREY.jpeg 450 _ 
+
+
+* 更多
+
+此外细分领域还有 红宝书,蓝宝书,橙宝书,红龙书 等..
